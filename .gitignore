@@ -105,6 +105,7 @@ target/
 
 # Model files (optional - choose what to include)
 # Uncomment lines below if you want to ignore model files
+# *.pkl
 # *.joblib
 # *.model
 # *.h5
