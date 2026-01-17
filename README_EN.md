@@ -22,7 +22,7 @@
 This project is an advanced heart disease prediction web application built with Gradient Boosting algorithms, achieving high-precision predictions (88.65% accuracy). Through an intuitive Gradio interface, medical professionals and general users can quickly assess patients' cardiovascular risk, providing data-driven support for early prevention and timely intervention.
 
 ### 💡 Project Mission
-Utilize artificial intelligence technology to democratize heart disease risk assessment, making high-quality medical prediction tools easily accessible and usable, contributing to global cardiovascular disease prevention efforts.
+Democratize heart disease risk assessment using artificial intelligence technology, making high-quality medical prediction tools easily accessible and usable, contributing to global cardiovascular disease prevention efforts.
 
 ---
 
