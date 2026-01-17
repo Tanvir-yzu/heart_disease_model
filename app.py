@@ -4,10 +4,7 @@ import numpy as np
 import pickle
 import pandas as pd
 
-# ───────────────────────────────────────────────
-# Bypass common Windows proxy issues (very important!)
-# Put this BEFORE any gradio import/launch
-# ───────────────────────────────────────────────
+
 os.environ.pop("HTTP_PROXY", None)
 os.environ.pop("HTTPS_PROXY", None)
 os.environ.pop("http_proxy", None)
@@ -166,9 +163,6 @@ with gr.Blocks() as demo:   # ← no theme here anymore
 # ───────────────────────────────────────────────
 if __name__ == "__main__":
     demo.launch(
-        theme=gr.themes.Soft(),          # moved here — fixes UserWarning
-        server_name="127.0.0.1",           # or "127.0.0.1" if 0.0.0.0 causes issues
-        server_port=7860,
-        share=True,                      # for public link (temporary)
-        debug=True                       # helpful for seeing errors
+        theme=gr.themes.Soft(),
+        debug=True
     )
