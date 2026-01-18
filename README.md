@@ -373,6 +373,6 @@ Thanks to all researchers, developers, and healthcare workers contributing to ca
 
 **⭐ If this project helps you, please give us a star!**
 
-Made with ❤️ by AI/ML Expert Team
+Made with ❤️ by Tanvir Islam
 
 </div>
