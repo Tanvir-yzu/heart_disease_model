@@ -163,6 +163,8 @@ with gr.Blocks() as demo:   # ← no theme here anymore
 # ───────────────────────────────────────────────
 if __name__ == "__main__":
     demo.launch(
-        theme=gr.themes.Soft(),
+        theme=gr.themes.Soft(
+            primary_hue="red"
+        ),
         debug=True
     )
