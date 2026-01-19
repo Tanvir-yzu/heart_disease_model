@@ -267,7 +267,7 @@ We welcome all forms of contributions! Please follow these steps:
 
 #### 1️⃣ Fork & Clone
 ```bash
-git clone https://github.com/yourusername/heart_disease_model.git
+git clone https://github.com/Tanvir-yzu/heart_disease_model.git
 cd heart_disease_model
 git checkout -b feature/your-feature-name
 ```
