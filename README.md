@@ -64,7 +64,7 @@ Utilize artificial intelligence technology to democratize heart disease risk ass
 
 #### 1️⃣ Clone Project
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Tanvir-yzu/heart_disease_model.git
 cd heart_disease_model
 ```
 
